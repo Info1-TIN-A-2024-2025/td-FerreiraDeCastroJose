@@ -14,4 +14,9 @@
     ],
     "terminal.integrated.shellIntegration.enabled": false,
     "terminal.integrated.shellIntegration.decorationsEnabled": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "limits.h": "c",
+        "math.h": "c"
+    },
 }
